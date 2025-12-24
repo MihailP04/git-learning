@@ -3,3 +3,5 @@
 I have learned how to initialize a Git repository and make commits.
 
 This is a test repo
+
+This is second change in README
